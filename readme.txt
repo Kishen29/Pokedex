@@ -1,0 +1,1 @@
+First retrieve all the data from the pokimon api
